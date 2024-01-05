@@ -668,6 +668,3 @@ compare.print()
 #           40156  x 32   (discontiguous)      |     2670  |    5000
 #    
 #     Times are in microseconds (us).
-#
-
-#
